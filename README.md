@@ -11,14 +11,6 @@ This is a real-time chat application where two users can join a room and chat us
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </p>
 
-
-# Sample Output
-
- <p align="center">
- <img src="home.PNG" width=500 height=450>
-</p>
-      
-
 ## Features
 
 - **Real-time Communication:** Utilizes WebSocket technology to enable instant messaging between users.
