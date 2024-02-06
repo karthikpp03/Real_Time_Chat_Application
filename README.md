@@ -15,7 +15,7 @@ This is a real-time chat application where two users can join a room and chat us
 # Sample Output
 
  <p align="center">
- <img src="https://github.com/Prajwalhn18/real-time-chat-application/blob/main/Images/real-time-chat-image.PNG" width=500 height=450>
+ <img src="home.PNG" width=500 height=450>
 </p>
       
 
@@ -34,8 +34,8 @@ This is a real-time chat application where two users can join a room and chat us
   
  <table>
  <tr>
-  <td><img src="https://github.com/Prajwalhn18/real-time-chat-application/blob/main/Images/real-time-chat-image-1.PNG" width=500 height=450></td>
-  <td><img src="https://github.com/Prajwalhn18/real-time-chat-application/blob/main/Images/real-time-chat-image-2.PNG" width=500 height=450></td>
+  <td><img src="chat 1.PNG" width=500 height=450></td>
+  <td><img src="chat 2.PNG" width=500 height=450></td>
  </tr>
  </table>
  
